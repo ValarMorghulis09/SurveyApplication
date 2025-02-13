@@ -1,13 +1,13 @@
-package com.projects.survery;
+package com.projects.survey;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SurveryApplication {
+public class surveyApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SurveryApplication.class, args);
+        SpringApplication.run(surveyApplication.class, args);
     }
 
 }
